@@ -3,5 +3,8 @@ body{
   font-family: monospace;
   margin: 6px;
   background-image: url(./background.jpeg);
-
+}
+div{
+  min-height: 100vh;
+  width: 100vh;
 }
