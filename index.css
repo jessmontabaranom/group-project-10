@@ -1,8 +1,9 @@
 body{
   color: rgb(65, 75, 80);
   margin: 6px;
-  background-image: url(./background.jpeg);
+  background-image: linear-gradient(angle, pink-stop1, blue-stop2);
 }
+
 h1, h2 {
   text-align: center;
 }
@@ -11,5 +12,8 @@ img {
   border-radius: 130px;
 }
 a:hover {
-  background-color: pink;
+  background-color: yellow;
+}
+form{
+  align: center;
 }
