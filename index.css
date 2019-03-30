@@ -1,7 +1,7 @@
 body{
   color: rgb(65, 75, 80);
   font-family: monospace;
-
+  margin: 6px;
   background-image: url(./background.jpeg);
 
 }
