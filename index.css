@@ -3,7 +3,9 @@ body{
   margin: 20px;
   background-color: #ccddff;
 }
-
+h1{
+  color: #1a66ff
+}
 h1, h2 {
   text-align: center;
 }
@@ -21,4 +23,9 @@ input{
   border: 10;
   padding: 7px;
   font-size: 15px;
+  color: pink;
 }
+ input[type="submit"]{
+   background: white;
+   color: gray;
+ }
