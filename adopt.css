@@ -1,0 +1,31 @@
+body{
+  color: rgb(65, 75, 80);
+  margin: 20px;
+  background-color: #ccddff;
+}
+h1{
+  color: #003766
+}
+h1, h2 {
+  text-align: center;
+}
+img {
+  display: flex;
+  border-radius: 130px;
+}
+a:hover {
+  background-color: pink;
+}
+form{
+  text-align: center;
+}
+input{
+  border: 10;
+  padding: 7px;
+  font-size: 15px;
+  color: pink;
+}
+ input[type="submit"]{
+   background: white;
+   color: gray;
+ }
