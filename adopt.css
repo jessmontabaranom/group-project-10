@@ -17,16 +17,3 @@ img {
 a:hover {
   background-color: pink;
 }
-form{
-  text-align: center;
-}
-input{
-  border: 10;
-  padding: 7px;
-  font-size: 15px;
-  color: pink;
-}
- input[type="submit"]{
-   background: white;
-   color: gray;
- }
